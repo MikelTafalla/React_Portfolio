@@ -14,8 +14,12 @@ const Projects  = () => {
             </Hero>
             <Wrapper>
             {Gif.map(giphy => (
-            <Card 
+            <Card key={giphy.id}
                 image={require(`../components/Card/images/${giphy.gif}`)}
+                title={giphy.title}
+                client={giphy.client}
+                click={giphy.click}
+                repo={giphy.repo}
             />
             ))}
             </Wrapper>

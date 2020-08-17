@@ -1,20 +1,51 @@
 [
     {
-        "gif": "cleansafegif.gif"
+        "gif": "employeeTrackergif.gif",
+        "title": "Employee Tracker",
+        "client": "Backend SQL Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/Employee_Tracker",
+        "id": 1
+
     },
     {
-        "gif": "ub04gif.gif"
+        "gif": "exerciseMegif.gif",
+        "title": "ExerciseMe",
+        "client": "Backend NoSQL Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/ExerciseMe",
+        "id": 2
     },
     {
-        "gif": "employeeDirectorygif.gif"
+        "gif": "employeeDirectorygif.gif",
+        "title": "Employee Directory",
+        "client": "Frontend react Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/Employee_Directory",
+        "id": 3
     },
     {
-        "gif": "passwordgif.gif"
+        "gif": "passwordgif.gif",
+        "title": "Password Generator",
+        "client": "Frontend Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/Password_Generator",
+        "id": 4
     },
     {
-        "gif": "burgerApp.gif"
+        "gif": "burgerApp.gif",
+        "title": "Eat Da' Burger",
+        "client": "Backend SQL Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/Burger_tracker",
+        "id": 5
     },
     {
-        "gif": "weathergif.gif"
+        "gif": "weathergif.gif",
+        "title": "Weather Dash",
+        "client": "Frontend Project",
+        "click": "Click Here for more info",
+        "repo": "https://github.com/MikelTafalla/WeatherDash_Mikel",
+        "id": 6
     }
 ]
