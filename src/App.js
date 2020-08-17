@@ -4,15 +4,14 @@ import Navbar from "./components/Navbar/navbar";
 import Project from "./pages/projects";
 
 
+
 function App() {
   return (
     <Router>
     <div>
       <Navbar />
-    
         <Route exact path="/" component={Project} />
         <Route exact path="/projects" component={Project} />
-
     </div>
   </Router>
 );

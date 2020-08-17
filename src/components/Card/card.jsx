@@ -1,8 +1,9 @@
 import React from "react";
+import "./card.css"
 
 const Card = (props) => {
   return (
-    <div className="card" style={{width: 18 + "rem"}}>
+    <div className="card img-container" style={{width: 18 + "rem"}}>
       <img src={props.image} className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">Card title</h5>
