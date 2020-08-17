@@ -5,8 +5,6 @@ import Project from "./pages/projects";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 
-
-
 function App() {
   return (
     <Router>
@@ -15,7 +13,7 @@ function App() {
         <Route exact path="/" component={Project} />
         <Route exact path="/projects" component={Project} />
         <Route exact path="/about" component={About} />
-        {/* <Route exact path="/contact" component={Contact} />  */}
+        <Route exact path="/contact" component={Contact} /> 
     </div>
   </Router>
 );
