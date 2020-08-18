@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 const Navbar = () => {
@@ -37,6 +39,14 @@ const Navbar = () => {
             >
               Contact
             </Link>
+          </li>
+          {/* ------ */}
+          <li className="nav-item">
+             <a className="nav-link active" target="_blank" rel="noopener noreferrer" href="https://github.com/MikelTafalla"><FontAwesomeIcon icon={faGithub}/></a>
+          </li>
+
+          <li className="nav-item">
+             <a className="nav-link active" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mikel-rodriguez-villar/"><FontAwesomeIcon icon={faLinkedinIn}/></a> 
           </li>
         </ul>
       </div>
