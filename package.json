@@ -15,7 +15,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://MikelTafalla.github.io/portfolio3.0",
+  "homepage": "https://MikelTafalla.github.io/React_Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
