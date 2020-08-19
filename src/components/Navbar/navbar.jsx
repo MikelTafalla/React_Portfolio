@@ -14,9 +14,9 @@ const Navbar = () => {
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link
-              to="/React_Portfolio"
+              to="/"
               className={
-                window.location.pathname === "/React_Portfolio" || window.location.pathname === "/projects"
+                window.location.pathname === "/" || window.location.pathname === "/projects"
                   ? "nav-link active"
                   : "nav-link"
               }
