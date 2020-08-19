@@ -20,7 +20,7 @@ Template of a basic portfolio done with React.js for practice.
 * [Author](#author)
 
 ## Instructions
-> Open your browser and go to [budget_tracker](https://cryptic-wildwood-44940.herokuapp.com/). Navigate through the portfolio. You could see all my projects on page load. Onthe navbar you'll find the "about me" tab and "contact me" tab. "About me" tab will give you access to my online resume. "Contact me" tab will give you access to my email.
+> Open your browser and go to [portfolio3.0](https://cryptic-wildwood-44940.herokuapp.com/). Navigate through the portfolio. You could see all my projects on page load. Onthe navbar you'll find the "about me" tab and "contact me" tab. "About me" tab will give you access to my online resume. "Contact me" tab will give you access to my email.
 
 ## Example Gif
 
