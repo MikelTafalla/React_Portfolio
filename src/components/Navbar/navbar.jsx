@@ -14,9 +14,9 @@ const Navbar = () => {
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link
-              to="/"
+              to="/React_Portfolio"
               className={
-                window.location.pathname === "/" || window.location.pathname === "/projects"
+                window.location.pathname === "/" || window.location.pathname === "/React_Portfolio/projects"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -26,16 +26,16 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <Link
-              to="/about"
-              className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
+              to="/React_Portfolio/about"
+              className={window.location.pathname === "/React_Portfolio/about" ? "nav-link active" : "nav-link"}
             >
               About
             </Link>
           </li>
           <li className="nav-item">
             <Link
-              to="/contact"
-              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+              to="/React_Portfolio/contact"
+              className={window.location.pathname === "/React_Portfolio/contact" ? "nav-link active" : "nav-link"}
             >
               Contact
             </Link>
