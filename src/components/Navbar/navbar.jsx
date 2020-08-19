@@ -16,7 +16,7 @@ const Navbar = () => {
             <Link
               to="/"
               className={
-                window.location.pathname === "/" || window.location.pathname === "/projects"
+                window.location.pathname === "/" || window.location.pathname === "/"
                   ? "nav-link active"
                   : "nav-link"
               }
