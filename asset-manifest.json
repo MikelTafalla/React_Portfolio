@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.727390ab.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.58769fcd.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.58769fcd.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
-    "static/js/2.2459e7fa.chunk.js": "/React_Portfolio/static/js/2.2459e7fa.chunk.js",
-    "static/js/2.2459e7fa.chunk.js.map": "/React_Portfolio/static/js/2.2459e7fa.chunk.js.map",
-    "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.f3beb2e69c75dc754f86504000058ebd.js": "/React_Portfolio/precache-manifest.f3beb2e69c75dc754f86504000058ebd.js",
-    "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.727390ab.chunk.css.map": "/React_Portfolio/static/css/main.727390ab.chunk.css.map",
-    "static/js/2.2459e7fa.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.2459e7fa.chunk.js.LICENSE.txt",
-    "static/media/burgerApp.gif": "/React_Portfolio/static/media/burgerApp.9c37e8af.gif",
-    "static/media/employeeDirectorygif.gif": "/React_Portfolio/static/media/employeeDirectorygif.5c9cf600.gif",
-    "static/media/employeeTrackergif.gif": "/React_Portfolio/static/media/employeeTrackergif.414193fb.gif",
-    "static/media/exerciseMegif.gif": "/React_Portfolio/static/media/exerciseMegif.2985c6da.gif",
-    "static/media/passwordgif.gif": "/React_Portfolio/static/media/passwordgif.88370f34.gif",
-    "static/media/weathergif.gif": "/React_Portfolio/static/media/weathergif.72d501d4.gif"
+    "main.css": "/static/css/main.727390ab.chunk.css",
+    "main.js": "/static/js/main.941b15ae.chunk.js",
+    "main.js.map": "/static/js/main.941b15ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.2459e7fa.chunk.js": "/static/js/2.2459e7fa.chunk.js",
+    "static/js/2.2459e7fa.chunk.js.map": "/static/js/2.2459e7fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.069f038076265c5eebb06df0a46b8e16.js": "/precache-manifest.069f038076265c5eebb06df0a46b8e16.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.727390ab.chunk.css.map": "/static/css/main.727390ab.chunk.css.map",
+    "static/js/2.2459e7fa.chunk.js.LICENSE.txt": "/static/js/2.2459e7fa.chunk.js.LICENSE.txt",
+    "static/media/burgerApp.gif": "/static/media/burgerApp.9c37e8af.gif",
+    "static/media/employeeDirectorygif.gif": "/static/media/employeeDirectorygif.5c9cf600.gif",
+    "static/media/employeeTrackergif.gif": "/static/media/employeeTrackergif.414193fb.gif",
+    "static/media/exerciseMegif.gif": "/static/media/exerciseMegif.2985c6da.gif",
+    "static/media/passwordgif.gif": "/static/media/passwordgif.88370f34.gif",
+    "static/media/weathergif.gif": "/static/media/weathergif.72d501d4.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.446e9683.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.2459e7fa.chunk.js",
     "static/css/main.727390ab.chunk.css",
-    "static/js/main.58769fcd.chunk.js"
+    "static/js/main.941b15ae.chunk.js"
   ]
 }
