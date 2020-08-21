@@ -1,6 +1,6 @@
 # React_Portfolio
 
-[Live App](https://MikelTafalla.github.io/React_Portfolio)
+[Live App](https://distracted-sinoussi-9dfa07.netlify.app/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MikelTafalla/React_Portfolio?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/MikelTafalla/React_Portfolio?color=green&logo=github&logoColor=green)
@@ -20,7 +20,7 @@ Template of a basic portfolio done with React.js for practice.
 * [Author](#author)
 
 ## Instructions
-> Open your browser and go to [portfolio3.0](https://cryptic-wildwood-44940.herokuapp.com/). Navigate through the portfolio. You could see all my projects on page load. Onthe navbar you'll find the "about me" tab and "contact me" tab. "About me" tab will give you access to my online resume. "Contact me" tab will give you access to my email.
+> Open your browser and go to [portfolio3.0](https://distracted-sinoussi-9dfa07.netlify.app/). Navigate through the portfolio. You could see all my projects on page load. Onthe navbar you'll find the "about me" tab and "contact me" tab. "About me" tab will give you access to my online resume. "Contact me" tab will give you access to my email.
 
 ## Example Gif
 
